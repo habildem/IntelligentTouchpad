@@ -1,0 +1,8 @@
+.build/
+.build-tests/
+.DS_Store
+**/xcuserdata/
+.impeccable/review/
+outputs/
+
+.impeccable/
